@@ -4,7 +4,7 @@
 
 # Фото -> Мультяшный рисунок(Photo to Cartoon)
 
-Русская версия | [中文版](README_IE.md) | English Version (README_EN.md)
+[中文版](README_IE.md) | [English Version](README_EN.md) | Русская версия
 
 [Minivision](https://www.minivision.cn/)': Проект перевода фото в мультяшный рисунок (Фото -> Мультяшный рисунок( photo-to-cartoon translation project is Photo to Cartoon)) является проектом с открытыми исходниками в этом репозитарии( repo) и вы можете попробовать нашу WeChat-мини-программу  "AI Cartoon Show", через сканирование QR-кода, расположенного внизу ниже.   try our .
 
